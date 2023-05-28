@@ -1,0 +1,11 @@
+- Module Introduction ema-john server
+- Connect database and create post endpoint
+- Insert bulk data many data to the database
+- Load data from the server
+- Load some products using keys
+- Handle Inventory and how to store image on server
+- Save orders in a new data collection in mongodb
+- A simple overview of node mailer to send email
+- A simple introduction to mongoose
+- Module Summary and folder architecture
+- How to implement search that loads data from database
